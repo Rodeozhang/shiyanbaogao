@@ -6,7 +6,7 @@
 2.	掌握Markdown语法
 
 ## 二、实验任务
-1.	注册Github账号
+1.	注册Github账号(Rodeozhang)
 2.	创建Gihub Pages repository
 3.	发布第一篇博客
 4.	学习Markdown
